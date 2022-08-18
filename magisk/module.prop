@@ -1,0 +1,6 @@
+id=samsung-camera-hal-enhancer
+name=Samsung Camera HAL Enhancer
+version=1.0
+versionCode=1
+author=MDNSSKNGHT
+description=A collection of modified camera libraries to improve overall photography experience for Samsung devices powered by an Exynos soc.
